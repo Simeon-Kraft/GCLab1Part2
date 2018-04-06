@@ -20,7 +20,7 @@ public class Lab1Part2 {
 		
 		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d/MM/yyyy");
 		
-		// Receive the 
+		// Get values for first and second date, then get period between
 		
 		LocalDate firstDate = getLocalDateFromInput("Enter a date in d/mm/yyyy format: ");
 
